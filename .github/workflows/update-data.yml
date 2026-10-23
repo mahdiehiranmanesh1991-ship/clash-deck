@@ -1,0 +1,56 @@
+name: Update card data
+
+# Daily: pull the official card list (+ Deck Shop roles/meta decks), detect new cards / Evo / Hero forms,
+# commit ONLY if something changed, then redeploy Pages.
+on:
+  schedule:
+    - cron: '17 3 * * *' # 06:47 Tehran
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install ImageMagick (card thumbnails)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick webp >/dev/null
+      - name: Fetch latest data
+        env:
+          # Optional. Official key whitelisted for 45.79.218.79; without it the public mirror is used.
+          CR_API_TOKEN: ${{ secrets.CR_API_TOKEN }}
+        run: node scripts/update-data.mjs
+      - name: Test
+        run: npm test
+      - id: commit
+        name: Commit if changed
+        run: |
+          git add data img
+          if git diff --cached --quiet; then
+            echo "No data change."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "data: card update $(date -u +%F)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  deploy:
+    needs: update
+    if: needs.update.outputs.changed == 'true'
+    uses: ./.github/workflows/pages.yml

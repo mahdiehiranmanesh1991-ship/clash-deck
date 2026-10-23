@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fa" dir="rtl" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#14183a">
+<meta name="description" content="دک‌ساز خودکار کلش رویال بر اساس کارت‌هایی که داری — فارسی، آفلاین، رایگان">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="دک‌ساز">
+<title>دک‌ساز کلش رویال</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preload" href="fonts/Vazirmatn-Variable.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <img src="icons/icon-192.png" width="36" height="36" alt="">
+    <div><h1>دک‌ساز کلش رویال</h1><p class="sub" id="dataBadge">در حال بارگذاری…</p></div>
+  </div>
+</header>
+
+<main id="app">
+  <section class="view" id="view-build" data-view="build"></section>
+  <section class="view" id="view-cards" data-view="cards" hidden></section>
+  <section class="view" id="view-complete" data-view="complete" hidden></section>
+  <section class="view" id="view-settings" data-view="settings" hidden></section>
+</main>
+
+<nav class="tabbar" aria-label="بخش‌ها">
+  <button data-tab="build" class="active"><span>🃏</span>دک‌ساز</button>
+  <button data-tab="cards"><span>📚</span>کارت‌های من</button>
+  <button data-tab="complete"><span>🧩</span>تکمیل دک</button>
+  <button data-tab="settings"><span>⚙️</span>تنظیمات</button>
+</nav>
+
+<div class="sheet-backdrop" id="sheetBg" hidden></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" hidden></div>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

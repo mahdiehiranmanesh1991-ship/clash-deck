@@ -1,0 +1,14 @@
+{
+  "name": "clash-deck",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "دک‌ساز کلش رویال — Persian offline Clash Royale deck builder PWA",
+  "scripts": {
+    "test": "node --test tests/",
+    "e2e": "node tests/e2e.mjs",
+    "serve": "python3 -m http.server 8080",
+    "update-data": "node scripts/update-data.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

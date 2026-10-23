@@ -1,0 +1,883 @@
+{
+ "tag": "#2PPGGQ",
+ "name": "Test Player",
+ "trophies": 7000,
+ "arena": {
+  "id": 54000000,
+  "name": "Legendary Arena"
+ },
+ "cards": [
+  {
+   "name": "Knight",
+   "id": 26000000,
+   "level": 16,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 3,
+   "maxEvolutionLevel": 3
+  },
+  {
+   "name": "Archers",
+   "id": 26000001,
+   "level": 13,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Goblins",
+   "id": 26000002,
+   "level": 14,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 2
+  },
+  {
+   "name": "Giant",
+   "id": 26000003,
+   "level": 12,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 2
+  },
+  {
+   "name": "P.E.K.K.A",
+   "id": 26000004,
+   "level": 10,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 1,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Minions",
+   "id": 26000005,
+   "level": 16,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Balloon",
+   "id": 26000006,
+   "level": 11,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 2
+  },
+  {
+   "name": "Witch",
+   "id": 26000007,
+   "level": 10,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Barbarians",
+   "id": 26000008,
+   "level": 14,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Skeletons",
+   "id": 26000010,
+   "level": 13,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Valkyrie",
+   "id": 26000011,
+   "level": 13,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 2,
+   "maxEvolutionLevel": 3
+  },
+  {
+   "name": "Skeleton Army",
+   "id": 26000012,
+   "level": 10,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Bomber",
+   "id": 26000013,
+   "level": 13,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Musketeer",
+   "id": 26000014,
+   "level": 13,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 3
+  },
+  {
+   "name": "Baby Dragon",
+   "id": 26000015,
+   "level": 9,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Prince",
+   "id": 26000016,
+   "level": 8,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Wizard",
+   "id": 26000017,
+   "level": 13,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 3
+  },
+  {
+   "name": "Mini P.E.K.K.A",
+   "id": 26000018,
+   "level": 13,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 2
+  },
+  {
+   "name": "Spear Goblins",
+   "id": 26000019,
+   "level": 15,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Giant Skeleton",
+   "id": 26000020,
+   "level": 11,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Hog Rider",
+   "id": 26000021,
+   "level": 12,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Royal Giant",
+   "id": 26000024,
+   "level": 16,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Guards",
+   "id": 26000025,
+   "level": 10,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Princess",
+   "id": 26000026,
+   "level": 7,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Three Musketeers",
+   "id": 26000028,
+   "level": 14,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Lava Hound",
+   "id": 26000029,
+   "level": 7,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Ice Spirit",
+   "id": 26000030,
+   "level": 14,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 1,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Fire Spirit",
+   "id": 26000031,
+   "level": 15,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Sparky",
+   "id": 26000033,
+   "level": 8,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Bowler",
+   "id": 26000034,
+   "level": 11,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 2
+  },
+  {
+   "name": "Inferno Dragon",
+   "id": 26000037,
+   "level": 7,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 1,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Mega Minion",
+   "id": 26000039,
+   "level": 13,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 2,
+   "maxEvolutionLevel": 2
+  },
+  {
+   "name": "Dart Goblin",
+   "id": 26000040,
+   "level": 13,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Electro Wizard",
+   "id": 26000042,
+   "level": 5,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 2
+  },
+  {
+   "name": "Elite Barbarians",
+   "id": 26000043,
+   "level": 14,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 1,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Executioner",
+   "id": 26000045,
+   "level": 9,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Royal Recruits",
+   "id": 26000047,
+   "level": 14,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Bats",
+   "id": 26000049,
+   "level": 14,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Royal Ghost",
+   "id": 26000050,
+   "level": 7,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 1,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Ram Rider",
+   "id": 26000051,
+   "level": 7,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Zappies",
+   "id": 26000052,
+   "level": 11,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Cannon Cart",
+   "id": 26000054,
+   "level": 8,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Mega Knight",
+   "id": 26000055,
+   "level": 7,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Skeleton Barrel",
+   "id": 26000056,
+   "level": 16,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 1,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Flying Machine",
+   "id": 26000057,
+   "level": 11,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Wall Breakers",
+   "id": 26000058,
+   "level": 8,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Royal Hogs",
+   "id": 26000059,
+   "level": 11,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Goblin Giant",
+   "id": 26000060,
+   "level": 9,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 1,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Fisherman",
+   "id": 26000061,
+   "level": 8,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Magic Archer",
+   "id": 26000062,
+   "level": 6,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 2
+  },
+  {
+   "name": "Mighty Miner",
+   "id": 26000065,
+   "level": 5,
+   "maxLevel": 6,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Battle Healer",
+   "id": 26000068,
+   "level": 14,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Archer Queen",
+   "id": 26000072,
+   "level": 4,
+   "maxLevel": 6,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Golden Knight",
+   "id": 26000074,
+   "level": 6,
+   "maxLevel": 6,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Monk",
+   "id": 26000077,
+   "level": 5,
+   "maxLevel": 6,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Mother Witch",
+   "id": 26000083,
+   "level": 8,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Electro Spirit",
+   "id": 26000084,
+   "level": 16,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Electro Giant",
+   "id": 26000085,
+   "level": 11,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Little Prince",
+   "id": 26000093,
+   "level": 4,
+   "maxLevel": 6,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Goblin Demolisher",
+   "id": 26000095,
+   "level": 13,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Goblin Machine",
+   "id": 26000096,
+   "level": 8,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Suspicious Bush",
+   "id": 26000097,
+   "level": 14,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Goblinstein",
+   "id": 26000099,
+   "level": 5,
+   "maxLevel": 6,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Rune Giant",
+   "id": 26000101,
+   "level": 11,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Berserker",
+   "id": 26000102,
+   "level": 16,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 2
+  },
+  {
+   "name": "Boss Bandit",
+   "id": 26000103,
+   "level": 4,
+   "maxLevel": 6,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Minion Giant",
+   "id": 26000107,
+   "level": 12,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Cannon",
+   "id": 27000000,
+   "level": 14,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Mortar",
+   "id": 27000002,
+   "level": 15,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Inferno Tower",
+   "id": 27000003,
+   "level": 11,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Barbarian Hut",
+   "id": 27000005,
+   "level": 12,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Tesla",
+   "id": 27000006,
+   "level": 15,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "X-Bow",
+   "id": 27000008,
+   "level": 9,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Tombstone",
+   "id": 27000009,
+   "level": 12,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 2
+  },
+  {
+   "name": "Furnace",
+   "id": 27000010,
+   "level": 13,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Goblin Drill",
+   "id": 27000013,
+   "level": 11,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Fireball",
+   "id": 28000000,
+   "level": 11,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Arrows",
+   "id": 28000001,
+   "level": 15,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Rocket",
+   "id": 28000003,
+   "level": 11,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Goblin Barrel",
+   "id": 28000004,
+   "level": 8,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 1,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Freeze",
+   "id": 28000005,
+   "level": 11,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Mirror",
+   "id": 28000006,
+   "level": 10,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Lightning",
+   "id": 28000007,
+   "level": 11,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Zap",
+   "id": 28000008,
+   "level": 13,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 1,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Poison",
+   "id": 28000009,
+   "level": 11,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "The Log",
+   "id": 28000011,
+   "level": 8,
+   "maxLevel": 8,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Tornado",
+   "id": 28000012,
+   "level": 9,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Clone",
+   "id": 28000013,
+   "level": 9,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Barbarian Barrel",
+   "id": 28000015,
+   "level": 11,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0,
+   "maxEvolutionLevel": 2
+  },
+  {
+   "name": "Heal Spirit",
+   "id": 28000016,
+   "level": 13,
+   "maxLevel": 14,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Giant Snowball",
+   "id": 28000017,
+   "level": 16,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 1,
+   "maxEvolutionLevel": 1
+  },
+  {
+   "name": "Royal Delivery",
+   "id": 28000018,
+   "level": 13,
+   "maxLevel": 16,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Void",
+   "id": 28000023,
+   "level": 9,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Goblin Curse",
+   "id": 28000024,
+   "level": 9,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Vines",
+   "id": 28000026,
+   "level": 11,
+   "maxLevel": 11,
+   "count": 10,
+   "evolutionLevel": 0
+  },
+  {
+   "name": "Future Card",
+   "id": 26999999,
+   "level": 5,
+   "maxLevel": 16,
+   "count": 1
+  }
+ ],
+ "supportCards": [
+  {
+   "name": "Cannoneer",
+   "id": 159000001,
+   "level": 11,
+   "maxLevel": 16
+  }
+ ],
+ "currentDeck": [
+  {
+   "name": "Knight",
+   "id": 26000000,
+   "level": 16,
+   "maxLevel": 16
+  },
+  {
+   "name": "Archers",
+   "id": 26000001,
+   "level": 13,
+   "maxLevel": 16
+  },
+  {
+   "name": "Goblins",
+   "id": 26000002,
+   "level": 14,
+   "maxLevel": 16
+  },
+  {
+   "name": "Giant",
+   "id": 26000003,
+   "level": 12,
+   "maxLevel": 14
+  },
+  {
+   "name": "P.E.K.K.A",
+   "id": 26000004,
+   "level": 10,
+   "maxLevel": 11
+  },
+  {
+   "name": "Minions",
+   "id": 26000005,
+   "level": 16,
+   "maxLevel": 16
+  },
+  {
+   "name": "Fireball",
+   "id": 28000000,
+   "level": 11,
+   "maxLevel": 14
+  },
+  {
+   "name": "Arrows",
+   "id": 28000001,
+   "level": 15,
+   "maxLevel": 16
+  }
+ ]
+}
