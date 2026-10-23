@@ -3,7 +3,7 @@
 // - data/*.json: NETWORK-FIRST (so the daily card update reaches the phone), cached fallback offline.
 // - Card images: local thumbnails precached from data/cards.json at install; any other image
 //   (new cards, official CDN api-assets.clashroyale.com) cached on first view in a long-lived cache.
-const VERSION = 'clash-deck-v1.0.0';
+const VERSION = 'clash-deck-v1.0.1';
 const IMG_CACHE = 'clash-deck-img-v1';
 const DATA_CACHE = 'clash-deck-data-v1';
 const KEEP = new Set([VERSION, IMG_CACHE, DATA_CACHE]);

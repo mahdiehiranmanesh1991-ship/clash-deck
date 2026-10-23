@@ -42,10 +42,8 @@
 ۳. **هر دستگاه** فهرست کارت‌هایی که دیده را نگه می‌دارد؛ اگر کارت ناشناخته‌ای بیاید پیغام «کارت جدید به بازی اضافه شد» می‌دهد.
 ۴. کارت تازه‌ای که هنوز نقشش معلوم نیست با نقش تخمینی وارد موتور می‌شود و بعداً خودکار اصلاح می‌شود. کارت ناشناخته در خروجی API بازیکن هم گزارش می‌شود، نه خطا.
 
-### کلید API (اختیاری، برای وارد کردن با تگ)
-- در https://developer.clashroyale.com حساب بسازید، کلید جدید با IP **`45.79.218.79`** (پراکسی RoyaleAPI) بسازید و در «تنظیمات» وارد کنید.
-- یا Worker کلودفلر `workers/player-proxy.js` را با secret به نام `CR_API_TOKEN` دیپلوی کنید و آدرسش را در «آدرس سرور» بگذارید تا کلید روی گوشی لازم نباشد.
-- برای Action روزانه هم می‌توانید همین کلید را در Secrets مخزن با نام `CR_API_TOKEN` بگذارید (اختیاری).
+### کلید API
+سایت منتشرشده برای «وارد کردن با تگ» از یک پراکسی سرور استفاده می‌کند و کلید سوپرسل داخل مخزن نیست. فیلد کلید در تنظیمات اختیاری است (کلید شخصی با IP `45.79.218.79`). نمونهٔ Worker در `workers/player-proxy.js` است. برای Action روزانه می‌توانید همان کلید را در Secrets مخزن با نام `CR_API_TOKEN` بگذارید.
 
 ### انتشار
 ۱. یک مخزن بسازید و کد را push کنید (شاخه‌ی `main`). ۲. Settings ← Pages ← Source: **GitHub Actions**. ۳. `pages.yml` تست‌ها را اجرا و سایت را در `https://<user>.github.io/clash-deck/` منتشر می‌کند (همه مسیرها نسبی‌اند). ۴. `update-data.yml` به مجوز write نیاز دارد (Settings ← Actions ← Workflow permissions).
@@ -62,7 +60,7 @@
 ## English
 
 ### Features
-- Manual card picker (123 cards, Persian + English names, search, filters, levels 1–16, Evo/Hero) or import by **player tag** through the official API (RoyaleAPI proxy, or your own Cloudflare Worker).
+- Manual card picker (123 cards, Persian + English names, search, filters, levels 1–16, Evo/Hero) or import by **player tag**. The published site uses a server-side official key; a personal key or your own worker is optional.
 - Rule-based, explainable engine (`js/engine.js`): 3–5 diverse decks per archetype with a 0–100 score and breakdown, average elixir, 4-card cycle, Evo/Hero/Wild slot assignment (max 1 champion; 2 as an event option), pros/cons, closest Deck Shop meta deck, swap suggestions, copy-deck link / open in game, *complete my deck* with locked cards, deck analysis and upgrade priority.
 - New-card recognition: daily data refresh + «کارت جدید» / «فرم جدید» badges (60 days) + per-device "new card" toast and filter.
 - Offline PWA (precached shell, fonts and 184 card images), local-only storage with JSON export/import; the API key is stored only when "remember" is checked.

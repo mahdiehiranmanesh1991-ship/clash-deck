@@ -2,10 +2,10 @@
 import * as E from './engine.js';
 import { isRecent, RARITY_FA } from './catalog.js';
 import { ARCHETYPES, ROLE_FA, TYPE_FA } from './knowledge.js';
-import { loadState, saveState, diffNewCards, exportCollection, importCollection, mapPlayer, fetchPlayer, normalizeTag } from './store.js';
+import { loadState, saveState, diffNewCards, exportCollection, importCollection, mapPlayer, fetchPlayer, normalizeTag, BUILTIN_ENDPOINT } from './store.js';
 import { g2d, formatShort, fa } from './jalali.js';
 
-const VERSION = '1.0.0';
+const VERSION = '1.0.1';
 const $ = (s, r = document) => r.querySelector(s);
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const todayISO = () => new Date().toISOString().slice(0, 10);
@@ -221,7 +221,7 @@ function renderSettings() {
   const s = state.settings; const el = $('#view-settings');
   el.innerHTML = `<h2 class="page-title">تنظیمات</h2>
   <div class="card"><h3 style="margin-top:0">📥 وارد کردن کارت‌ها با تگ بازیکن</h3>
-    <p class="muted small">API رسمی سوپرسل فقط با «کلید شخصی» جواب می‌دهد. یک بار در <a href="https://developer.clashroyale.com" target="_blank" rel="noopener">developer.clashroyale.com</a> ثبت‌نام کن، کلید بساز و در قسمت IP عدد <code>45.79.218.79</code> (پراکسی RoyaleAPI) را بگذار. کلید فقط روی همین گوشی می‌ماند و جز به سرور پراکسی به جایی فرستاده نمی‌شود. بدون کلید هم می‌توانی کارت‌ها را دستی انتخاب کنی.</p>
+    <p class="muted small">کلید API همین اپ روی سرور است؛ برای وارد کردن با تگ چیزی لازم نیست بنویسی. اگر کلید شخصی خودت را داری، در قسمت IP عدد <code>45.79.218.79</code> را بگذار و پایین وارد کن. بدون تگ هم می‌توانی کارت‌ها را دستی انتخاب کنی.</p>
     <label class="field"><span>تگ بازیکن</span><input id="tag" class="ltr" placeholder="#2PP" value="${esc(s.tag)}" autocomplete="off" autocapitalize="characters"></label>
     <label class="field"><span>کلید API (اختیاری)</span><input id="apiKey" class="ltr" type="password" value="${esc(s.apiKey)}" autocomplete="off"></label>
     <label class="switch">کلید روی این دستگاه ذخیره شود <input type="checkbox" id="rememberKey" ${s.rememberKey ? 'checked' : ''}></label>
@@ -250,10 +250,10 @@ async function doFetchTag() {
   const s = state.settings; const msg = $('#tagMsg');
   s.tag = $('#tag').value; s.apiKey = $('#apiKey').value; s.rememberKey = $('#rememberKey').checked; s.endpoint = $('#endpoint').value.trim(); save();
   if (!normalizeTag(s.tag)) { msg.textContent = '❌ تگ معتبر نیست (فقط حروف 0289PYLQGRJCUV).'; return; }
-  if (!s.apiKey && !s.endpoint) { msg.textContent = '🔑 برای دریافت خودکار، کلید API یا آدرس سرور لازم است. در غیر این صورت از «کارت‌های من» دستی انتخاب کن.'; return; }
   msg.textContent = '⏳ در حال دریافت…';
+  const opts = s.endpoint ? { endpoint: s.endpoint } : (s.apiKey ? { apiKey: s.apiKey } : { endpoint: BUILTIN_ENDPOINT });
   try {
-    const p = await fetchPlayer(s.tag, s);
+    const p = await fetchPlayer(s.tag, opts);
     const r = mapPlayer(p, catalog);
     state.collection = r.collection; ui.player = r; ui.decks = null;
     if (r.towers?.length && !r.towers.includes(+s.tower)) s.tower = r.towers[0];

@@ -2,6 +2,8 @@
 import { slugify, displayLevel } from './catalog.js';
 
 export const STORE_KEY = 'clashdeck.v1';
+// Server-side player proxy. The Supercell token stays in the function env, not in this repo.
+export const BUILTIN_ENDPOINT = 'https://br-bitter-flower-b4shoeum-clashdeck.compute.c-6.us-east-2.aws.neon.tech/v1';
 export const DEFAULT_SETTINGS = { tag: '', apiKey: '', rememberKey: false, endpoint: '', tower: 159000000, specialSlots: 3, maxChampions: 1, defaultLevel: 11 };
 
 export function loadState(storage) {
