@@ -1,283 +1,9 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "source": "deckshop.pro",
  "decks": [
   {
-   "name": "Graveyard, Evo P.E.K.K.A, Hero Knight: Evo Musketeer",
-   "section": "CRL 20-Win Challenge 2026 decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "pekka",
-     "form": "evo"
-    },
-    {
-     "key": "knight",
-     "form": "hero"
-    },
-    {
-     "key": "musketeer",
-     "form": "evo"
-    },
-    {
-     "key": "graveyard"
-    },
-    {
-     "key": "electro-spirit"
-    },
-    {
-     "key": "cannon"
-    },
-    {
-     "key": "arrows"
-    },
-    {
-     "key": "giant-snowball"
-    }
-   ]
-  },
-  {
-   "name": "Evo Royal Hogs, Evo Battle Ram, Hero Electro Wizard: Poison",
-   "section": "CRL 20-Win Challenge 2026 decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "royal-hogs",
-     "form": "evo"
-    },
-    {
-     "key": "electro-wizard",
-     "form": "hero"
-    },
-    {
-     "key": "battle-ram",
-     "form": "evo"
-    },
-    {
-     "key": "barbarians"
-    },
-    {
-     "key": "mega-minion"
-    },
-    {
-     "key": "barbarian-hut"
-    },
-    {
-     "key": "poison"
-    },
-    {
-     "key": "the-log"
-    }
-   ]
-  },
-  {
-   "name": "Goblin Barrel, Skeleton Barrel, Golden Knight",
-   "section": "CRL 20-Win Challenge 2026 decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "goblin-barrel"
-    },
-    {
-     "key": "golden-knight"
-    },
-    {
-     "key": "skeleton-barrel"
-    },
-    {
-     "key": "firecracker"
-    },
-    {
-     "key": "goblin-gang"
-    },
-    {
-     "key": "inferno-tower"
-    },
-    {
-     "key": "tornado"
-    },
-    {
-     "key": "royal-delivery"
-    }
-   ]
-  },
-  {
-   "name": "Evo Mega Knight, Golden Knight, Lumberjack: Evo Witch",
-   "section": "CRL 20-Win Challenge 2026 decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "mega-knight",
-     "form": "evo"
-    },
-    {
-     "key": "golden-knight"
-    },
-    {
-     "key": "witch",
-     "form": "evo"
-    },
-    {
-     "key": "lumberjack"
-    },
-    {
-     "key": "bandit"
-    },
-    {
-     "key": "electro-wizard"
-    },
-    {
-     "key": "mother-witch"
-    },
-    {
-     "key": "flying-machine"
-    }
-   ]
-  },
-  {
-   "name": "Ram Rider, Cannon Cart, Hero Knight: Evo Musketeer, Evo Giant Snowball",
-   "section": "CRL 20-Win Challenge 2026 decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "musketeer",
-     "form": "evo"
-    },
-    {
-     "key": "knight",
-     "form": "hero"
-    },
-    {
-     "key": "giant-snowball",
-     "form": "evo"
-    },
-    {
-     "key": "ram-rider"
-    },
-    {
-     "key": "cannon-cart"
-    },
-    {
-     "key": "hunter"
-    },
-    {
-     "key": "goblin-gang"
-    },
-    {
-     "key": "fireball"
-    }
-   ]
-  },
-  {
-   "name": "Royal Giant: Monk, Fireball, Evo Royal Ghost, Evo Hunter",
-   "section": "Updated New Meta! decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "royal-ghost",
-     "form": "evo"
-    },
-    {
-     "key": "monk"
-    },
-    {
-     "key": "hunter",
-     "form": "evo"
-    },
-    {
-     "key": "royal-giant"
-    },
-    {
-     "key": "minions"
-    },
-    {
-     "key": "skeletons"
-    },
-    {
-     "key": "fireball"
-    },
-    {
-     "key": "the-log"
-    }
-   ]
-  },
-  {
-   "name": "Evo Mortar Bait: Cannon Cart, Rascals, Evo Skeleton Barrel",
-   "section": "Updated New Meta! decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "skeleton-barrel",
-     "form": "evo"
-    },
-    {
-     "key": "cannon-cart"
-    },
-    {
-     "key": "mortar",
-     "form": "evo"
-    },
-    {
-     "key": "rascals"
-    },
-    {
-     "key": "dart-goblin"
-    },
-    {
-     "key": "goblin-gang"
-    },
-    {
-     "key": "fireball"
-    },
-    {
-     "key": "the-log"
-    }
-   ]
-  },
-  {
-   "name": "Golem, Hero Knight, Evo Wizard: Evo Dart Goblin",
-   "section": "Updated New Meta! decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "wizard",
-     "form": "evo"
-    },
-    {
-     "key": "knight",
-     "form": "hero"
-    },
-    {
-     "key": "dart-goblin",
-     "form": "evo"
-    },
-    {
-     "key": "golem"
-    },
-    {
-     "key": "electro-wizard"
-    },
-    {
-     "key": "night-witch"
-    },
-    {
-     "key": "goblin-gang"
-    },
-    {
-     "key": "arrows"
-    }
-   ]
-  },
-  {
-   "name": "Golem, Goblin Machine, Hero Mini P.E.K.K.A: Vines, Evo Furnace, Evo Baby Dragon",
+   "name": "Goblin Barrel, Rascals, Hero Bowler: Evo Furnace, Evo Minion Horde",
    "section": "Updated New Meta! decks",
    "ladder": true,
    "tt": null,
@@ -287,32 +13,32 @@
      "form": "evo"
     },
     {
-     "key": "mini-pekka",
+     "key": "bowler",
      "form": "hero"
     },
     {
-     "key": "baby-dragon",
+     "key": "minion-horde",
      "form": "evo"
     },
     {
-     "key": "golem"
+     "key": "goblin-barrel"
     },
     {
-     "key": "goblin-machine"
+     "key": "rascals"
     },
     {
-     "key": "guards"
+     "key": "mirror"
     },
     {
-     "key": "vines"
+     "key": "fireball"
     },
     {
-     "key": "barbarian-barrel"
+     "key": "the-log"
     }
    ]
   },
   {
-   "name": "3.4 X-Bow Cycle: Electro Spirit, Hero Knight, Evo Musketeer, Evo Skeletons",
+   "name": "Balloon Cycle: Miner, Evo Musketeer, Bomb Tower, Hero Ice Golem",
    "section": "Updated New Meta! decks",
    "ladder": true,
    "tt": null,
@@ -322,27 +48,130 @@
      "form": "evo"
     },
     {
-     "key": "knight",
+     "key": "ice-golem",
      "form": "hero"
     },
     {
-     "key": "skeletons",
+     "key": "balloon"
+    },
+    {
+     "key": "miner"
+    },
+    {
+     "key": "skeletons"
+    },
+    {
+     "key": "bomb-tower"
+    },
+    {
+     "key": "barbarian-barrel"
+    },
+    {
+     "key": "giant-snowball"
+    }
+   ]
+  },
+  {
+   "name": "Evo Royal Hogs, Mighty Miner, Evo Baby Dragon: Lightning",
+   "section": "Updated New Meta! decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "royal-hogs",
      "form": "evo"
     },
     {
-     "key": "x-bow"
+     "key": "mighty-miner"
+    },
+    {
+     "key": "baby-dragon",
+     "form": "evo"
+    },
+    {
+     "key": "skeletons"
     },
     {
      "key": "electro-spirit"
     },
     {
-     "key": "barbarian-hut"
+     "key": "goblin-hut"
     },
     {
-     "key": "fireball"
+     "key": "lightning"
     },
     {
-     "key": "the-log"
+     "key": "barbarian-barrel"
+    }
+   ]
+  },
+  {
+   "name": "Goblin Barrel, Ronin, Hero Valkyrie: Hero Electro Wizard, Evo Tesla",
+   "section": "Updated New Meta! decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "tesla",
+     "form": "evo"
+    },
+    {
+     "key": "valkyrie",
+     "form": "hero"
+    },
+    {
+     "key": "electro-wizard",
+     "form": "hero"
+    },
+    {
+     "key": "goblin-barrel"
+    },
+    {
+     "key": "ronin"
+    },
+    {
+     "key": "mirror"
+    },
+    {
+     "key": "arrows"
+    },
+    {
+     "key": "zap"
+    }
+   ]
+  },
+  {
+   "name": "LumberLoon Freeze: Bowler, Evo Electro Dragon, Hero Balloon, Evo Lumberjack",
+   "section": "Updated New Meta! decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "lumberjack",
+     "form": "evo"
+    },
+    {
+     "key": "balloon",
+     "form": "hero"
+    },
+    {
+     "key": "electro-dragon",
+     "form": "evo"
+    },
+    {
+     "key": "bowler"
+    },
+    {
+     "key": "inferno-dragon"
+    },
+    {
+     "key": "freeze"
+    },
+    {
+     "key": "tornado"
+    },
+    {
+     "key": "barbarian-barrel"
     }
    ]
   },
@@ -382,6 +211,41 @@
    ]
   },
   {
+   "name": "Evo Goblin Giant Sparky: Rage, Dark Prince, Hero Mega Minion, Evo Zap",
+   "section": "Seasonal Arena I decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "goblin-giant",
+     "form": "evo"
+    },
+    {
+     "key": "mega-minion",
+     "form": "hero"
+    },
+    {
+     "key": "zap",
+     "form": "evo"
+    },
+    {
+     "key": "sparky"
+    },
+    {
+     "key": "mini-pekka"
+    },
+    {
+     "key": "dark-prince"
+    },
+    {
+     "key": "electro-wizard"
+    },
+    {
+     "key": "rage"
+    }
+   ]
+  },
+  {
    "name": "Evo Battle Ram, Giant Skeleton, Evo Lumberjack: Hero Electro Wizard",
    "section": "Seasonal Arena I decks",
    "ladder": true,
@@ -417,17 +281,17 @@
    ]
   },
   {
-   "name": "Hyperbait: Evo Royal Ghost, Rascals, Evo Skeleton Barrel, Hero Goblins",
+   "name": "Evo Battle Ram Bridge Spam: Giant Skeleton, Evo Royal Ghost, Hero Electro Wizard",
    "section": "Seasonal Arena I decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "skeleton-barrel",
+     "key": "battle-ram",
      "form": "evo"
     },
     {
-     "key": "goblins",
+     "key": "electro-wizard",
      "form": "hero"
     },
     {
@@ -435,123 +299,53 @@
      "form": "evo"
     },
     {
-     "key": "suspicious-bush"
+     "key": "giant-skeleton"
     },
     {
-     "key": "rascals"
+     "key": "bandit"
     },
     {
-     "key": "dart-goblin"
+     "key": "mother-witch"
     },
     {
-     "key": "fireball"
+     "key": "furnace"
     },
     {
-     "key": "the-log"
+     "key": "arrows"
     }
    ]
   },
   {
-   "name": "Golem Beatdown: Elixir Collector, Battle Healer, Evo Barbarians, Evo Electro Dragon",
+   "name": "Evo Battle Ram Bridge Spam: Golden Knight, Ronin, Evo Zap",
    "section": "Seasonal Arena I decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "barbarians",
+     "key": "battle-ram",
      "form": "evo"
     },
     {
-     "key": "golem"
-    },
-    {
-     "key": "electro-dragon",
-     "form": "evo"
-    },
-    {
-     "key": "lumberjack"
-    },
-    {
-     "key": "battle-healer"
-    },
-    {
-     "key": "baby-dragon"
-    },
-    {
-     "key": "elixir-collector"
-    },
-    {
-     "key": "tornado"
-    }
-   ]
-  },
-  {
-   "name": "Lava Hound Beatdown: Miner, Evo Barbarians, Hero Mega Minion, Evo Zap",
-   "section": "Seasonal Arena I decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "barbarians",
-     "form": "evo"
-    },
-    {
-     "key": "mega-minion",
-     "form": "hero"
+     "key": "golden-knight"
     },
     {
      "key": "zap",
      "form": "evo"
     },
     {
-     "key": "miner"
+     "key": "ronin"
     },
     {
-     "key": "lava-hound"
+     "key": "royal-ghost"
     },
     {
-     "key": "flying-machine"
+     "key": "bandit"
     },
     {
-     "key": "tombstone"
+     "key": "electro-wizard"
     },
     {
-     "key": "goblin-curse"
-    }
-   ]
-  },
-  {
-   "name": "Royal Giant, Sparky, Hero Ice Wizard: Evo Minion Horde, Evo Skeleton Army",
-   "section": "Seasonal Arena II decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "minion-horde",
-     "form": "evo"
-    },
-    {
-     "key": "ice-wizard",
-     "form": "hero"
-    },
-    {
-     "key": "skeleton-army",
-     "form": "evo"
-    },
-    {
-     "key": "royal-giant"
-    },
-    {
-     "key": "sparky"
-    },
-    {
-     "key": "barbarians"
-    },
-    {
-     "key": "electro-spirit"
-    },
-    {
-     "key": "arrows"
+     "key": "furnace"
     }
    ]
   },
@@ -591,83 +385,13 @@
    ]
   },
   {
-   "name": "Evo Skeleton Barrel, Evo Wall Breakers, Cannon Cart: Hero Dark Prince",
+   "name": "Royal Giant, Sparky, Hero Ice Wizard: Evo Minion Horde, Evo Skeleton Army",
    "section": "Seasonal Arena II decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "skeleton-barrel",
-     "form": "evo"
-    },
-    {
-     "key": "dark-prince",
-     "form": "hero"
-    },
-    {
-     "key": "wall-breakers",
-     "form": "evo"
-    },
-    {
-     "key": "cannon-cart"
-    },
-    {
-     "key": "rascals"
-    },
-    {
-     "key": "dart-goblin"
-    },
-    {
-     "key": "goblin-hut"
-    },
-    {
-     "key": "the-log"
-    }
-   ]
-  },
-  {
-   "name": "Evo Battle Ram Bridge Spam: Ronin, Evo Elite Barbarians, Hero Electro Wizard",
-   "section": "Seasonal Arena II decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "battle-ram",
-     "form": "evo"
-    },
-    {
-     "key": "electro-wizard",
-     "form": "hero"
-    },
-    {
-     "key": "elite-barbarians",
-     "form": "evo"
-    },
-    {
-     "key": "ronin"
-    },
-    {
-     "key": "royal-ghost"
-    },
-    {
-     "key": "bandit"
-    },
-    {
-     "key": "mother-witch"
-    },
-    {
-     "key": "zap"
-    }
-   ]
-  },
-  {
-   "name": "Miner Evo Wall Breakers: Hero Ice Wizard, Evo Minion Horde",
-   "section": "Seasonal Arena II decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "wall-breakers",
+     "key": "minion-horde",
      "form": "evo"
     },
     {
@@ -675,17 +399,52 @@
      "form": "hero"
     },
     {
-     "key": "minion-horde",
+     "key": "skeleton-army",
      "form": "evo"
     },
     {
-     "key": "miner"
+     "key": "royal-giant"
+    },
+    {
+     "key": "sparky"
     },
     {
      "key": "barbarians"
     },
     {
-     "key": "goblin-gang"
+     "key": "electro-spirit"
+    },
+    {
+     "key": "arrows"
+    }
+   ]
+  },
+  {
+   "name": "LumberLoon: Evo Mega Knight, Hero Balloon, Evo Executioner",
+   "section": "Seasonal Arena II decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "mega-knight",
+     "form": "evo"
+    },
+    {
+     "key": "balloon",
+     "form": "hero"
+    },
+    {
+     "key": "executioner",
+     "form": "evo"
+    },
+    {
+     "key": "lumberjack"
+    },
+    {
+     "key": "inferno-dragon"
+    },
+    {
+     "key": "archers"
     },
     {
      "key": "lightning"
@@ -696,484 +455,33 @@
    ]
   },
   {
-   "name": "Goblin Barrel, Ronin, Hero Valkyrie: Hero Electro Wizard, Evo Tesla",
-   "section": "Boosted Electro Wizard decks",
-   "ladder": false,
+   "name": "Elixir Golem, Evo Lumberjack, Prince: Evo Executioner",
+   "section": "Seasonal Arena II decks",
+   "ladder": true,
    "tt": null,
-   "cards": [
-    {
-     "key": "tesla",
-     "form": "evo"
-    },
-    {
-     "key": "valkyrie",
-     "form": "hero"
-    },
-    {
-     "key": "electro-wizard",
-     "form": "hero"
-    },
-    {
-     "key": "goblin-barrel"
-    },
-    {
-     "key": "ronin"
-    },
-    {
-     "key": "mirror"
-    },
-    {
-     "key": "arrows"
-    },
-    {
-     "key": "zap"
-    }
-   ]
-  },
-  {
-   "name": "P.E.K.K.A Bridge Spam: Evo Battle Ram, Evo Wizard, Hero Electro Wizard",
-   "section": "Boosted Electro Wizard decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "battle-ram",
-     "form": "evo"
-    },
-    {
-     "key": "electro-wizard",
-     "form": "hero"
-    },
-    {
-     "key": "wizard",
-     "form": "evo"
-    },
-    {
-     "key": "pekka"
-    },
-    {
-     "key": "royal-ghost"
-    },
-    {
-     "key": "bandit"
-    },
-    {
-     "key": "poison"
-    },
-    {
-     "key": "zap"
-    }
-   ]
-  },
-  {
-   "name": "Evo P.E.K.K.A Bridge Spam: Golden Knight, Mother Witch, Evo Battle Ram",
-   "section": "Boosted Electro Wizard decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "battle-ram",
-     "form": "evo"
-    },
-    {
-     "key": "golden-knight"
-    },
-    {
-     "key": "pekka",
-     "form": "evo"
-    },
-    {
-     "key": "dark-prince"
-    },
-    {
-     "key": "electro-wizard"
-    },
-    {
-     "key": "mother-witch"
-    },
-    {
-     "key": "fireball"
-    },
-    {
-     "key": "zap"
-    }
-   ]
-  },
-  {
-   "name": "Evo P.E.K.K.A, Boss Bandit, Royal Ghost: Rage, Evo Wizard, Dagger Duchess",
-   "section": "Boosted Electro Wizard decks",
-   "ladder": false,
-   "tt": 2,
-   "cards": [
-    {
-     "key": "pekka",
-     "form": "evo"
-    },
-    {
-     "key": "boss-bandit"
-    },
-    {
-     "key": "wizard",
-     "form": "evo"
-    },
-    {
-     "key": "royal-ghost"
-    },
-    {
-     "key": "bandit"
-    },
-    {
-     "key": "electro-wizard"
-    },
-    {
-     "key": "rage"
-    },
-    {
-     "key": "fireball"
-    }
-   ]
-  },
-  {
-   "name": "Hog Rider, Ronin, Hero Valkyrie: Hero Electro Wizard, Evo Witch",
-   "section": "Boosted Electro Wizard decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "witch",
-     "form": "evo"
-    },
-    {
-     "key": "valkyrie",
-     "form": "hero"
-    },
-    {
-     "key": "electro-wizard",
-     "form": "hero"
-    },
-    {
-     "key": "hog-rider"
-    },
-    {
-     "key": "ronin"
-    },
-    {
-     "key": "cannon"
-    },
-    {
-     "key": "fireball"
-    },
-    {
-     "key": "the-log"
-    }
-   ]
-  },
-  {
-   "name": "Electro Giant Control: Hero Bowler, Lightning, Evo Knight, Evo Bomber",
-   "section": "Boosted Electro Giant decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "knight",
-     "form": "evo"
-    },
-    {
-     "key": "bowler",
-     "form": "hero"
-    },
-    {
-     "key": "bomber",
-     "form": "evo"
-    },
-    {
-     "key": "electro-giant"
-    },
-    {
-     "key": "phoenix"
-    },
-    {
-     "key": "cannon"
-    },
-    {
-     "key": "lightning"
-    },
-    {
-     "key": "tornado"
-    }
-   ]
-  },
-  {
-   "name": "Electro Giant, Hero Dark Prince, Evo Wizard: Lightning, Evo Bomber",
-   "section": "Boosted Electro Giant decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "wizard",
-     "form": "evo"
-    },
-    {
-     "key": "dark-prince",
-     "form": "hero"
-    },
-    {
-     "key": "bomber",
-     "form": "evo"
-    },
-    {
-     "key": "electro-giant"
-    },
-    {
-     "key": "goblin-cage"
-    },
-    {
-     "key": "lightning"
-    },
-    {
-     "key": "tornado"
-    },
-    {
-     "key": "barbarian-barrel"
-    }
-   ]
-  },
-  {
-   "name": "Electro Giant Control: Hero Bowler, Lightning, Evo Baby Dragon, Evo Goblin Cage",
-   "section": "Boosted Electro Giant decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "baby-dragon",
-     "form": "evo"
-    },
-    {
-     "key": "bowler",
-     "form": "hero"
-    },
-    {
-     "key": "goblin-cage",
-     "form": "evo"
-    },
-    {
-     "key": "electro-giant"
-    },
-    {
-     "key": "phoenix"
-    },
-    {
-     "key": "skeletons"
-    },
-    {
-     "key": "lightning"
-    },
-    {
-     "key": "tornado"
-    }
-   ]
-  },
-  {
-   "name": "Evo Battle Ram, Evo Electro Giant, Ronin: Hero Valkyrie",
-   "section": "Boosted Electro Giant decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "battle-ram",
-     "form": "evo"
-    },
-    {
-     "key": "valkyrie",
-     "form": "hero"
-    },
-    {
-     "key": "electro-giant",
-     "form": "evo"
-    },
-    {
-     "key": "ronin"
-    },
-    {
-     "key": "electro-wizard"
-    },
-    {
-     "key": "musketeer"
-    },
-    {
-     "key": "flying-machine"
-    },
-    {
-     "key": "arrows"
-    }
-   ]
-  },
-  {
-   "name": "Electro Giant, Evo Knight, Mother Witch: Evo Goblin Cage",
-   "section": "Boosted Electro Giant decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "knight",
-     "form": "evo"
-    },
-    {
-     "key": "electro-giant"
-    },
-    {
-     "key": "goblin-cage",
-     "form": "evo"
-    },
-    {
-     "key": "mother-witch"
-    },
-    {
-     "key": "flying-machine"
-    },
-    {
-     "key": "goblin-gang"
-    },
-    {
-     "key": "tornado"
-    },
-    {
-     "key": "barbarian-barrel"
-    }
-   ]
-  },
-  {
-   "name": "Hog Rider, Mega Knight, Evo Lumberjack: Evo Witch, Dagger Duchess",
-   "section": "Boosted Electro Spirit decks",
-   "ladder": false,
-   "tt": 2,
    "cards": [
     {
      "key": "lumberjack",
      "form": "evo"
     },
     {
-     "key": "hog-rider"
+     "key": "elixir-golem"
     },
     {
-     "key": "witch",
+     "key": "executioner",
      "form": "evo"
     },
     {
-     "key": "mega-knight"
+     "key": "prince"
     },
     {
-     "key": "bats"
+     "key": "musketeer"
     },
     {
-     "key": "goblin-gang"
+     "key": "guards"
     },
     {
-     "key": "skeletons"
-    },
-    {
-     "key": "electro-spirit"
-    }
-   ]
-  },
-  {
-   "name": "Hyperbait: Hero Berserker, Evo Skeleton Barrel, Evo Wall Breakers",
-   "section": "Boosted Electro Spirit decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "skeleton-barrel",
-     "form": "evo"
-    },
-    {
-     "key": "berserker",
-     "form": "hero"
-    },
-    {
-     "key": "wall-breakers",
-     "form": "evo"
-    },
-    {
-     "key": "suspicious-bush"
-    },
-    {
-     "key": "dart-goblin"
-    },
-    {
-     "key": "skeleton-army"
-    },
-    {
-     "key": "fire-spirit"
-    },
-    {
-     "key": "electro-spirit"
-    }
-   ]
-  },
-  {
-   "name": "Evo Royal Hogs Earthquake: Archer Queen, Royal Delivery, Hero Mini P.E.K.K.A",
-   "section": "Boosted Electro Spirit decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "royal-hogs",
-     "form": "evo"
-    },
-    {
-     "key": "mini-pekka",
-     "form": "hero"
-    },
-    {
-     "key": "archer-queen"
-    },
-    {
-     "key": "electro-spirit"
-    },
-    {
-     "key": "cannon"
-    },
-    {
-     "key": "earthquake"
-    },
-    {
-     "key": "royal-delivery"
-    },
-    {
-     "key": "the-log"
-    }
-   ]
-  },
-  {
-   "name": "Evo Battle Ram, Mega Knight, Hero Mini P.E.K.K.A: Freeze, Evo Inferno Dragon",
-   "section": "Boosted Electro Spirit decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "battle-ram",
-     "form": "evo"
-    },
-    {
-     "key": "mini-pekka",
-     "form": "hero"
-    },
-    {
-     "key": "inferno-dragon",
-     "form": "evo"
-    },
-    {
-     "key": "mega-knight"
-    },
-    {
-     "key": "bomber"
-    },
-    {
-     "key": "electro-spirit"
-    },
-    {
-     "key": "freeze"
+     "key": "arrows"
     },
     {
      "key": "zap"
@@ -1181,13 +489,291 @@
    ]
   },
   {
-   "name": "Evo Mortar Cycle: Evo Knight, Hero Musketeer",
-   "section": "Boosted Electro Spirit decks",
+   "name": "Electro Giant, Dark Prince, Hero Ice Wizard: Lightning, Evo Firecracker, Evo Skeletons",
+   "section": "Seasonal Arena II decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "firecracker",
+     "form": "evo"
+    },
+    {
+     "key": "ice-wizard",
+     "form": "hero"
+    },
+    {
+     "key": "skeletons",
+     "form": "evo"
+    },
+    {
+     "key": "electro-giant"
+    },
+    {
+     "key": "dark-prince"
+    },
+    {
+     "key": "inferno-tower"
+    },
+    {
+     "key": "lightning"
+    },
+    {
+     "key": "barbarian-barrel"
+    }
+   ]
+  },
+  {
+   "name": "Graveyard, Miner, Hero Giant: Evo Barbarians, Evo Bomber",
+   "section": "Boosted Giant decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "barbarians",
+     "form": "evo"
+    },
+    {
+     "key": "giant",
+     "form": "hero"
+    },
+    {
+     "key": "bomber",
+     "form": "evo"
+    },
+    {
+     "key": "graveyard"
+    },
+    {
+     "key": "miner"
+    },
+    {
+     "key": "witch"
+    },
+    {
+     "key": "princess"
+    },
+    {
+     "key": "elixir-collector"
+    }
+   ]
+  },
+  {
+   "name": "Giant Sparky: Hero Mini P.E.K.K.A, Evo Minion Horde, Evo Skeleton Army",
+   "section": "Boosted Giant decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "minion-horde",
+     "form": "evo"
+    },
+    {
+     "key": "mini-pekka",
+     "form": "hero"
+    },
+    {
+     "key": "skeleton-army",
+     "form": "evo"
+    },
+    {
+     "key": "giant"
+    },
+    {
+     "key": "sparky"
+    },
+    {
+     "key": "mother-witch"
+    },
+    {
+     "key": "arrows"
+    },
+    {
+     "key": "zap"
+    }
+   ]
+  },
+  {
+   "name": "Hero Giant Sparky: Mini P.E.K.K.A, Evo Musketeer, Evo Zap",
+   "section": "Boosted Giant decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "musketeer",
+     "form": "evo"
+    },
+    {
+     "key": "giant",
+     "form": "hero"
+    },
+    {
+     "key": "zap",
+     "form": "evo"
+    },
+    {
+     "key": "sparky"
+    },
+    {
+     "key": "mini-pekka"
+    },
+    {
+     "key": "minions"
+    },
+    {
+     "key": "heal-spirit"
+    },
+    {
+     "key": "arrows"
+    }
+   ]
+  },
+  {
+   "name": "Giant Sparky: Hero Mini P.E.K.K.A, Hero Musketeer, Evo Skeleton Army",
+   "section": "Boosted Giant decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "skeleton-army",
+     "form": "evo"
+    },
+    {
+     "key": "mini-pekka",
+     "form": "hero"
+    },
+    {
+     "key": "musketeer",
+     "form": "hero"
+    },
+    {
+     "key": "giant"
+    },
+    {
+     "key": "sparky"
+    },
+    {
+     "key": "bats"
+    },
+    {
+     "key": "arrows"
+    },
+    {
+     "key": "zap"
+    }
+   ]
+  },
+  {
+   "name": "Evo Mortar, Hero Giant, Sparky: Evo Executioner",
+   "section": "Boosted Giant decks",
    "ladder": false,
    "tt": null,
    "cards": [
     {
      "key": "mortar",
+     "form": "evo"
+    },
+    {
+     "key": "giant",
+     "form": "hero"
+    },
+    {
+     "key": "executioner",
+     "form": "evo"
+    },
+    {
+     "key": "sparky"
+    },
+    {
+     "key": "minions"
+    },
+    {
+     "key": "skeleton-army"
+    },
+    {
+     "key": "arrows"
+    },
+    {
+     "key": "zap"
+    }
+   ]
+  },
+  {
+   "name": "Goblin Drill, Sparky, Monk: Evo Archers, Evo Tesla",
+   "section": "Boosted Mirror decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "archers",
+     "form": "evo"
+    },
+    {
+     "key": "monk"
+    },
+    {
+     "key": "tesla",
+     "form": "evo"
+    },
+    {
+     "key": "goblin-drill"
+    },
+    {
+     "key": "sparky"
+    },
+    {
+     "key": "goblin-gang"
+    },
+    {
+     "key": "mirror"
+    },
+    {
+     "key": "fireball"
+    }
+   ]
+  },
+  {
+   "name": "Goblin Barrel, Giant Skeleton, Bats: Rocket, Evo Skeleton Army, Evo Tesla",
+   "section": "Boosted Mirror decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "skeleton-army",
+     "form": "evo"
+    },
+    {
+     "key": "goblin-barrel"
+    },
+    {
+     "key": "tesla",
+     "form": "evo"
+    },
+    {
+     "key": "giant-skeleton"
+    },
+    {
+     "key": "bats"
+    },
+    {
+     "key": "fire-spirit"
+    },
+    {
+     "key": "mirror"
+    },
+    {
+     "key": "rocket"
+    }
+   ]
+  },
+  {
+   "name": "Elixir Golem Healer: Evo Electro Dragon, Hero Musketeer",
+   "section": "Boosted Mirror decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "electro-dragon",
      "form": "evo"
     },
     {
@@ -1195,257 +781,52 @@
      "form": "hero"
     },
     {
-     "key": "knight",
-     "form": "evo"
+     "key": "elixir-golem"
     },
     {
-     "key": "cannon-cart"
+     "key": "battle-healer"
     },
     {
-     "key": "ice-wizard"
+     "key": "goblin-gang"
     },
     {
-     "key": "skeletons"
-    },
-    {
-     "key": "electro-spirit"
-    },
-    {
-     "key": "the-log"
-    }
-   ]
-  },
-  {
-   "name": "Evo Mortar, Goblinstein, Knight: Poison, Evo Firecracker",
-   "section": "Boosted Goblinstein decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "mortar",
-     "form": "evo"
-    },
-    {
-     "key": "goblinstein"
-    },
-    {
-     "key": "firecracker",
-     "form": "evo"
-    },
-    {
-     "key": "knight"
-    },
-    {
-     "key": "ice-wizard"
-    },
-    {
-     "key": "skeletons"
-    },
-    {
-     "key": "poison"
-    },
-    {
-     "key": "the-log"
-    }
-   ]
-  },
-  {
-   "name": "Evo Goblin Giant, Goblinstein, Fisherman: Lightning, Evo Bats",
-   "section": "Boosted Goblinstein decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "goblin-giant",
-     "form": "evo"
-    },
-    {
-     "key": "goblinstein"
-    },
-    {
-     "key": "bats",
-     "form": "evo"
-    },
-    {
-     "key": "fisherman"
-    },
-    {
-     "key": "bowler"
-    },
-    {
-     "key": "guards"
-    },
-    {
-     "key": "lightning"
-    },
-    {
-     "key": "arrows"
-    }
-   ]
-  },
-  {
-   "name": "Goblinstein Evo Goblin Cage Graveyard Freeze: Evo Bomber",
-   "section": "Boosted Goblinstein decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "bomber",
-     "form": "evo"
-    },
-    {
-     "key": "goblinstein"
-    },
-    {
-     "key": "goblin-cage",
-     "form": "evo"
-    },
-    {
-     "key": "graveyard"
-    },
-    {
-     "key": "ice-wizard"
-    },
-    {
-     "key": "freeze"
+     "key": "mirror"
     },
     {
      "key": "tornado"
     },
     {
-     "key": "barbarian-barrel"
-    }
-   ]
-  },
-  {
-   "name": "Evo Battle Ram Goblinstein bridge spam: Evo Royal Ghost",
-   "section": "Boosted Goblinstein decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "battle-ram",
-     "form": "evo"
-    },
-    {
-     "key": "goblinstein"
-    },
-    {
-     "key": "royal-ghost",
-     "form": "evo"
-    },
-    {
-     "key": "cannon-cart"
-    },
-    {
-     "key": "bandit"
-    },
-    {
-     "key": "spear-goblins"
-    },
-    {
-     "key": "ice-spirit"
-    },
-    {
      "key": "arrows"
     }
    ]
   },
   {
-   "name": "Evo Mortar, Goblinstein, Cannon Cart: Evo Furnace",
-   "section": "Boosted Goblinstein decks",
+   "name": "2.6 Hog Cycle: Evo Skeletons",
+   "section": "Sudden Death decks",
    "ladder": false,
    "tt": null,
    "cards": [
     {
-     "key": "mortar",
+     "key": "skeletons",
      "form": "evo"
     },
     {
-     "key": "goblinstein"
+     "key": "hog-rider"
     },
     {
-     "key": "furnace",
-     "form": "evo"
+     "key": "ice-golem"
     },
     {
-     "key": "cannon-cart"
+     "key": "musketeer"
     },
     {
-     "key": "goblin-gang"
+     "key": "ice-spirit"
     },
     {
-     "key": "goblin-cage"
+     "key": "cannon"
     },
     {
      "key": "fireball"
-    },
-    {
-     "key": "barbarian-barrel"
-    }
-   ]
-  },
-  {
-   "name": "Log Bait: Evo Knight",
-   "section": "Sudden Death decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "knight",
-     "form": "evo"
-    },
-    {
-     "key": "goblin-barrel"
-    },
-    {
-     "key": "princess"
-    },
-    {
-     "key": "goblin-gang"
-    },
-    {
-     "key": "ice-spirit"
-    },
-    {
-     "key": "inferno-tower"
-    },
-    {
-     "key": "rocket"
-    },
-    {
-     "key": "the-log"
-    }
-   ]
-  },
-  {
-   "name": "Log Bait: Evo Goblin Barrel, Evo Knight",
-   "section": "Sudden Death decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "goblin-barrel",
-     "form": "evo"
-    },
-    {
-     "key": "princess"
-    },
-    {
-     "key": "knight",
-     "form": "evo"
-    },
-    {
-     "key": "goblin-gang"
-    },
-    {
-     "key": "ice-spirit"
-    },
-    {
-     "key": "inferno-tower"
-    },
-    {
-     "key": "rocket"
     },
     {
      "key": "the-log"
@@ -1487,70 +868,102 @@
    ]
   },
   {
-   "name": "Splashyard: Evo Goblin Cage, Evo Knight",
+   "name": "Royal Hogs Earthquake: Archer Queen, Royal Delivery, Evo Ice Spirit, Evo Cannon",
    "section": "Sudden Death decks",
    "ladder": false,
    "tt": null,
    "cards": [
     {
-     "key": "knight",
+     "key": "ice-spirit",
      "form": "evo"
     },
     {
-     "key": "graveyard"
-    },
-    {
-     "key": "goblin-cage",
-     "form": "evo"
-    },
-    {
-     "key": "ice-wizard"
-    },
-    {
-     "key": "baby-dragon"
-    },
-    {
-     "key": "poison"
-    },
-    {
-     "key": "tornado"
-    },
-    {
-     "key": "barbarian-barrel"
-    }
-   ]
-  },
-  {
-   "name": "2.6 Hog Cycle: Evo Skeletons, Evo Cannon",
-   "section": "Double Elixir decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "skeletons",
-     "form": "evo"
-    },
-    {
-     "key": "hog-rider"
+     "key": "archer-queen"
     },
     {
      "key": "cannon",
      "form": "evo"
     },
     {
-     "key": "ice-golem"
+     "key": "royal-hogs"
     },
     {
-     "key": "musketeer"
+     "key": "skeletons"
     },
     {
-     "key": "ice-spirit"
+     "key": "earthquake"
     },
     {
-     "key": "fireball"
+     "key": "royal-delivery"
     },
     {
      "key": "the-log"
+    }
+   ]
+  },
+  {
+   "name": "Evo Royal Recruits Evo Archers Balloon",
+   "section": "Sudden Death decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "royal-recruits",
+     "form": "evo"
+    },
+    {
+     "key": "little-prince"
+    },
+    {
+     "key": "archers",
+     "form": "evo"
+    },
+    {
+     "key": "balloon"
+    },
+    {
+     "key": "lumberjack"
+    },
+    {
+     "key": "fisherman"
+    },
+    {
+     "key": "arrows"
+    },
+    {
+     "key": "giant-snowball"
+    }
+   ]
+  },
+  {
+   "name": "Golem Cannon Cart",
+   "section": "Double Elixir decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "golem"
+    },
+    {
+     "key": "cannon-cart"
+    },
+    {
+     "key": "lumberjack"
+    },
+    {
+     "key": "electro-dragon"
+    },
+    {
+     "key": "baby-dragon"
+    },
+    {
+     "key": "mega-minion"
+    },
+    {
+     "key": "tornado"
+    },
+    {
+     "key": "barbarian-barrel"
     }
    ]
   },
@@ -1589,7 +1002,7 @@
    ]
   },
   {
-   "name": "Electro Giant Little Prince Bowler Lightning: Evo Knight, Evo Archers",
+   "name": "Log Bait: Evo Knight",
    "section": "Double Elixir decks",
    "ladder": false,
    "tt": null,
@@ -1599,26 +1012,59 @@
      "form": "evo"
     },
     {
-     "key": "little-prince"
+     "key": "goblin-barrel"
     },
     {
-     "key": "archers",
+     "key": "princess"
+    },
+    {
+     "key": "goblin-gang"
+    },
+    {
+     "key": "ice-spirit"
+    },
+    {
+     "key": "inferno-tower"
+    },
+    {
+     "key": "rocket"
+    },
+    {
+     "key": "the-log"
+    }
+   ]
+  },
+  {
+   "name": "2.6 Hog Cycle: Evo Skeletons, Evo Cannon",
+   "section": "Double Elixir decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "skeletons",
      "form": "evo"
     },
     {
-     "key": "electro-giant"
+     "key": "hog-rider"
     },
     {
-     "key": "bowler"
+     "key": "cannon",
+     "form": "evo"
     },
     {
-     "key": "cannon"
+     "key": "ice-golem"
     },
     {
-     "key": "lightning"
+     "key": "musketeer"
     },
     {
-     "key": "tornado"
+     "key": "ice-spirit"
+    },
+    {
+     "key": "fireball"
+    },
+    {
+     "key": "the-log"
     }
    ]
   },
@@ -1691,36 +1137,36 @@
    ]
   },
   {
-   "name": "Triple Elixir Evo Royal Recruits bait: Evo Firecracker",
+   "name": "Log Bait: Evo Goblin Barrel, Evo Knight",
    "section": "Triple Elixir decks",
    "ladder": false,
    "tt": null,
    "cards": [
     {
-     "key": "royal-recruits",
+     "key": "goblin-barrel",
      "form": "evo"
     },
     {
-     "key": "skeleton-barrel"
+     "key": "princess"
     },
     {
-     "key": "firecracker",
+     "key": "knight",
      "form": "evo"
-    },
-    {
-     "key": "cannon-cart"
-    },
-    {
-     "key": "dart-goblin"
     },
     {
      "key": "goblin-gang"
     },
     {
-     "key": "fireball"
+     "key": "ice-spirit"
     },
     {
-     "key": "arrows"
+     "key": "inferno-tower"
+    },
+    {
+     "key": "rocket"
+    },
+    {
+     "key": "the-log"
     }
    ]
   },
@@ -1759,72 +1205,73 @@
    ]
   },
   {
-   "name": "Splashyard: Skeleton King",
+   "name": "Infinite Elixir Giant Skeleton Graveyard Freeze: Evo Firecracker",
    "section": "Infinite (7x) Elixir decks",
    "ladder": false,
    "tt": null,
    "cards": [
     {
+     "key": "firecracker",
+     "form": "evo"
+    },
+    {
      "key": "graveyard"
     },
     {
-     "key": "skeleton-king"
+     "key": "giant-skeleton"
     },
     {
-     "key": "ice-wizard"
+     "key": "cannon-cart"
     },
     {
      "key": "baby-dragon"
     },
     {
-     "key": "tombstone"
+     "key": "freeze"
     },
     {
      "key": "poison"
     },
     {
      "key": "tornado"
-    },
-    {
-     "key": "barbarian-barrel"
     }
    ]
   },
   {
-   "name": "Double Elixir Lava Clone",
-   "section": "Ramp Up decks",
+   "name": "PEKKA Ghost bridge spam",
+   "section": "Infinite (7x) Elixir decks",
    "ladder": false,
    "tt": null,
    "cards": [
     {
-     "key": "lava-hound"
+     "key": "battle-ram"
     },
     {
-     "key": "lumberjack"
+     "key": "pekka"
     },
     {
-     "key": "baby-dragon"
+     "key": "royal-ghost"
     },
     {
-     "key": "bats"
+     "key": "bandit"
     },
     {
-     "key": "flying-machine"
+     "key": "electro-wizard"
     },
     {
-     "key": "skeleton-army"
+     "key": "magic-archer"
     },
     {
-     "key": "clone"
+     "key": "poison"
     },
     {
-     "key": "fireball"
+     "key": "zap"
     }
    ]
   },
   {
-   "name": "Double Elixir Loon Freeze",
-   "section": "Ramp Up decks",
+   "name": "LumberLoon Freeze: Bowler",
+   "section": "Infinite (7x) Elixir decks",
    "ladder": false,
    "tt": null,
    "cards": [
@@ -1841,7 +1288,7 @@
      "key": "inferno-dragon"
     },
     {
-     "key": "electro-dragon"
+     "key": "baby-dragon"
     },
     {
      "key": "freeze"
@@ -1851,38 +1298,6 @@
     },
     {
      "key": "barbarian-barrel"
-    }
-   ]
-  },
-  {
-   "name": "Royal Hogs Earthquake: Archer Queen, Royal Delivery, Fire Spirit",
-   "section": "Ramp Up decks",
-   "ladder": false,
-   "tt": null,
-   "cards": [
-    {
-     "key": "royal-hogs"
-    },
-    {
-     "key": "archer-queen"
-    },
-    {
-     "key": "skeletons"
-    },
-    {
-     "key": "fire-spirit"
-    },
-    {
-     "key": "cannon"
-    },
-    {
-     "key": "earthquake"
-    },
-    {
-     "key": "royal-delivery"
-    },
-    {
-     "key": "the-log"
     }
    ]
   },
@@ -1919,8 +1334,8 @@
    ]
   },
   {
-   "name": "PEKKA Ghost bridge spam",
-   "section": "Rage Challenge decks",
+   "name": "P.E.K.K.A Bridge Spam: Magic Archer",
+   "section": "Ramp Up decks",
    "ladder": false,
    "tt": null,
    "cards": [
@@ -1943,7 +1358,7 @@
      "key": "magic-archer"
     },
     {
-     "key": "poison"
+     "key": "fireball"
     },
     {
      "key": "zap"
@@ -1951,13 +1366,141 @@
    ]
   },
   {
-   "name": "Double Elixir Mega Knight Spawn",
+   "name": "LavaLoon Mighty Miner",
+   "section": "Ramp Up decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "balloon"
+    },
+    {
+     "key": "mighty-miner"
+    },
+    {
+     "key": "lava-hound"
+    },
+    {
+     "key": "skeleton-dragons"
+    },
+    {
+     "key": "mega-minion"
+    },
+    {
+     "key": "tombstone"
+    },
+    {
+     "key": "fireball"
+    },
+    {
+     "key": "zap"
+    }
+   ]
+  },
+  {
+   "name": "CRL Hogs",
+   "section": "Ramp Up decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "royal-hogs"
+    },
+    {
+     "key": "giant-skeleton"
+    },
+    {
+     "key": "royal-ghost"
+    },
+    {
+     "key": "fisherman"
+    },
+    {
+     "key": "mother-witch"
+    },
+    {
+     "key": "zappies"
+    },
+    {
+     "key": "mirror"
+    },
+    {
+     "key": "arrows"
+    }
+   ]
+  },
+  {
+   "name": "Retro Royale Giant Sparky Rage",
    "section": "Rage Challenge decks",
    "ladder": false,
    "tt": null,
    "cards": [
     {
-     "key": "mega-knight"
+     "key": "giant"
+    },
+    {
+     "key": "sparky"
+    },
+    {
+     "key": "mini-pekka"
+    },
+    {
+     "key": "dark-prince"
+    },
+    {
+     "key": "wizard"
+    },
+    {
+     "key": "minion-horde"
+    },
+    {
+     "key": "elixir-collector"
+    },
+    {
+     "key": "rage"
+    }
+   ]
+  },
+  {
+   "name": "Double Elixir Loon Freeze",
+   "section": "Rage Challenge decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "balloon"
+    },
+    {
+     "key": "lumberjack"
+    },
+    {
+     "key": "bowler"
+    },
+    {
+     "key": "inferno-dragon"
+    },
+    {
+     "key": "electro-dragon"
+    },
+    {
+     "key": "freeze"
+    },
+    {
+     "key": "tornado"
+    },
+    {
+     "key": "barbarian-barrel"
+    }
+   ]
+  },
+  {
+   "name": "Triple Elixir eBarbs Fireball bait",
+   "section": "Rage Challenge decks",
+   "ladder": false,
+   "tt": null,
+   "cards": [
+    {
+     "key": "elite-barbarians"
     },
     {
      "key": "cannon-cart"
@@ -1983,60 +1526,166 @@
    ]
   },
   {
-   "name": "P.E.K.K.A Bridge Spam: Magic Archer",
-   "section": "Rage Challenge decks",
-   "ladder": false,
+   "name": "Electro Giant, Sparky, Evo Mega Knight: Evo Witch, Royal Chef",
+   "section": "Electro Giant decks",
+   "ladder": true,
+   "tt": 4,
+   "cards": [
+    {
+     "key": "mega-knight",
+     "form": "evo"
+    },
+    {
+     "key": "mighty-miner"
+    },
+    {
+     "key": "witch",
+     "form": "evo"
+    },
+    {
+     "key": "electro-giant"
+    },
+    {
+     "key": "sparky"
+    },
+    {
+     "key": "minion-horde"
+    },
+    {
+     "key": "tornado"
+    },
+    {
+     "key": "arrows"
+    }
+   ]
+  },
+  {
+   "name": "Electro Giant, Dark Prince, Electro Wizard",
+   "section": "Electro Giant decks",
+   "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "battle-ram"
+     "key": "electro-giant"
     },
     {
-     "key": "pekka"
-    },
-    {
-     "key": "royal-ghost"
-    },
-    {
-     "key": "bandit"
+     "key": "dark-prince"
     },
     {
      "key": "electro-wizard"
     },
     {
-     "key": "magic-archer"
+     "key": "musketeer"
+    },
+    {
+     "key": "guards"
+    },
+    {
+     "key": "goblin-cage"
     },
     {
      "key": "fireball"
     },
     {
-     "key": "zap"
+     "key": "tornado"
     }
    ]
   },
   {
-   "name": "LumberLoon Freeze: Bowler",
-   "section": "Rage Challenge decks",
-   "ladder": false,
+   "name": "Electro Giant Control: Hero Bowler, Lightning, Evo Knight, Evo Goblin Cage",
+   "section": "Electro Giant decks",
+   "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "balloon"
+     "key": "knight",
+     "form": "evo"
     },
     {
-     "key": "lumberjack"
+     "key": "bowler",
+     "form": "hero"
     },
     {
-     "key": "bowler"
+     "key": "goblin-cage",
+     "form": "evo"
     },
     {
-     "key": "inferno-dragon"
+     "key": "electro-giant"
     },
     {
-     "key": "baby-dragon"
+     "key": "phoenix"
     },
     {
-     "key": "freeze"
+     "key": "lightning"
+    },
+    {
+     "key": "tornado"
+    },
+    {
+     "key": "barbarian-barrel"
+    }
+   ]
+  },
+  {
+   "name": "Electro Giant, Evo Knight, Mother Witch: Evo Goblin Cage",
+   "section": "Electro Giant decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "knight",
+     "form": "evo"
+    },
+    {
+     "key": "electro-giant"
+    },
+    {
+     "key": "goblin-cage",
+     "form": "evo"
+    },
+    {
+     "key": "mother-witch"
+    },
+    {
+     "key": "flying-machine"
+    },
+    {
+     "key": "goblin-gang"
+    },
+    {
+     "key": "tornado"
+    },
+    {
+     "key": "barbarian-barrel"
+    }
+   ]
+  },
+  {
+   "name": "Electro Giant Control: Lightning, Hero Dark Prince, Evo Baby Dragon, Evo Goblin Cage",
+   "section": "Electro Giant decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "baby-dragon",
+     "form": "evo"
+    },
+    {
+     "key": "dark-prince",
+     "form": "hero"
+    },
+    {
+     "key": "goblin-cage",
+     "form": "evo"
+    },
+    {
+     "key": "electro-giant"
+    },
+    {
+     "key": "phoenix"
+    },
+    {
+     "key": "lightning"
     },
     {
      "key": "tornado"
@@ -2068,50 +1717,16 @@
      "key": "royal-hogs"
     },
     {
+     "key": "cannon-cart"
+    },
+    {
      "key": "zappies"
     },
     {
      "key": "flying-machine"
     },
     {
-     "key": "vines"
-    },
-    {
      "key": "arrows"
-    }
-   ]
-  },
-  {
-   "name": "Evo Royal Giant: Skeleton King, Lightning, Evo Furnace",
-   "section": "Zappies decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "royal-giant",
-     "form": "evo"
-    },
-    {
-     "key": "skeleton-king"
-    },
-    {
-     "key": "furnace",
-     "form": "evo"
-    },
-    {
-     "key": "fisherman"
-    },
-    {
-     "key": "zappies"
-    },
-    {
-     "key": "tombstone"
-    },
-    {
-     "key": "lightning"
-    },
-    {
-     "key": "barbarian-barrel"
     }
    ]
   },
@@ -2151,6 +1766,41 @@
    ]
   },
   {
+   "name": "Evo Royal Recruits Fireball Bait: Evo Goblin Cage, Hero Barbarian Barrel",
+   "section": "Zappies decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "royal-recruits",
+     "form": "evo"
+    },
+    {
+     "key": "barbarian-barrel",
+     "form": "hero"
+    },
+    {
+     "key": "goblin-cage",
+     "form": "evo"
+    },
+    {
+     "key": "royal-hogs"
+    },
+    {
+     "key": "zappies"
+    },
+    {
+     "key": "flying-machine"
+    },
+    {
+     "key": "vines"
+    },
+    {
+     "key": "arrows"
+    }
+   ]
+  },
+  {
    "name": "Evo Royal Recruits Fireball Bait: Golden Knight, Evo Royal Hogs",
    "section": "Zappies decks",
    "ladder": true,
@@ -2177,7 +1827,7 @@
      "key": "bomb-tower"
     },
     {
-     "key": "fireball"
+     "key": "arrows"
     },
     {
      "key": "barbarian-barrel"
@@ -2185,17 +1835,17 @@
    ]
   },
   {
-   "name": "Evo Royal Recruits Fireball Bait: Evo Goblin Cage, Hero Barbarian Barrel",
+   "name": "Royal Recruits Fireball Bait: Evo Royal Hogs, Hero Valkyrie, Evo Goblin Cage",
    "section": "Zappies decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "royal-recruits",
+     "key": "royal-hogs",
      "form": "evo"
     },
     {
-     "key": "barbarian-barrel",
+     "key": "valkyrie",
      "form": "hero"
     },
     {
@@ -2203,10 +1853,7 @@
      "form": "evo"
     },
     {
-     "key": "royal-hogs"
-    },
-    {
-     "key": "cannon-cart"
+     "key": "royal-recruits"
     },
     {
      "key": "zappies"
@@ -2216,6 +1863,43 @@
     },
     {
      "key": "arrows"
+    },
+    {
+     "key": "the-log"
+    }
+   ]
+  },
+  {
+   "name": "Evo Skeleton Barrel, Miner, Mega Knight: Evo Inferno Dragon",
+   "section": "Mega Knight decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "skeleton-barrel",
+     "form": "evo"
+    },
+    {
+     "key": "miner"
+    },
+    {
+     "key": "inferno-dragon",
+     "form": "evo"
+    },
+    {
+     "key": "mega-knight"
+    },
+    {
+     "key": "furnace"
+    },
+    {
+     "key": "bats"
+    },
+    {
+     "key": "goblin-gang"
+    },
+    {
+     "key": "zap"
     }
    ]
   },
@@ -2255,82 +1939,13 @@
    ]
   },
   {
-   "name": "Hog Rider, Skeleton Barrel, Evo Mega Knight: Evo Firecracker",
+   "name": "Sparky, Evo Mega Knight, Hero Mini P.E.K.K.A: Evo Witch",
    "section": "Mega Knight decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
      "key": "mega-knight",
-     "form": "evo"
-    },
-    {
-     "key": "hog-rider"
-    },
-    {
-     "key": "firecracker",
-     "form": "evo"
-    },
-    {
-     "key": "skeleton-barrel"
-    },
-    {
-     "key": "giant-skeleton"
-    },
-    {
-     "key": "dart-goblin"
-    },
-    {
-     "key": "cannon"
-    },
-    {
-     "key": "arrows"
-    }
-   ]
-  },
-  {
-   "name": "Goblin Barrel, Sparky, Evo Mega Knight: Hero Knight, Evo Wizard",
-   "section": "Mega Knight decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "mega-knight",
-     "form": "evo"
-    },
-    {
-     "key": "knight",
-     "form": "hero"
-    },
-    {
-     "key": "wizard",
-     "form": "evo"
-    },
-    {
-     "key": "goblin-barrel"
-    },
-    {
-     "key": "sparky"
-    },
-    {
-     "key": "bats"
-    },
-    {
-     "key": "skeleton-army"
-    },
-    {
-     "key": "arrows"
-    }
-   ]
-  },
-  {
-   "name": "Goblin Barrel, Evo Royal Giant, Evo Mega Knight: Hero Mini P.E.K.K.A, Dagger Duchess",
-   "section": "Mega Knight decks",
-   "ladder": true,
-   "tt": 2,
-   "cards": [
-    {
-     "key": "royal-giant",
      "form": "evo"
     },
     {
@@ -2338,23 +1953,92 @@
      "form": "hero"
     },
     {
+     "key": "witch",
+     "form": "evo"
+    },
+    {
+     "key": "sparky"
+    },
+    {
+     "key": "wizard"
+    },
+    {
+     "key": "electro-wizard"
+    },
+    {
+     "key": "skeleton-army"
+    },
+    {
+     "key": "arrows"
+    }
+   ]
+  },
+  {
+   "name": "Evo Skeleton Barrel, Evo Mega Knight, Hero Knight: Lightning",
+   "section": "Mega Knight decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "skeleton-barrel",
+     "form": "evo"
+    },
+    {
+     "key": "knight",
+     "form": "hero"
+    },
+    {
      "key": "mega-knight",
      "form": "evo"
     },
     {
-     "key": "goblin-barrel"
+     "key": "firecracker"
     },
     {
-     "key": "bats"
+     "key": "tombstone"
     },
     {
-     "key": "princess"
+     "key": "lightning"
     },
     {
-     "key": "dart-goblin"
+     "key": "tornado"
     },
     {
-     "key": "skeleton-army"
+     "key": "the-log"
+    }
+   ]
+  },
+  {
+   "name": "Miner, Evo Mega Knight, Evo Witch",
+   "section": "Mega Knight decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "mega-knight",
+     "form": "evo"
+    },
+    {
+     "key": "miner"
+    },
+    {
+     "key": "witch",
+     "form": "evo"
+    },
+    {
+     "key": "night-witch"
+    },
+    {
+     "key": "minion-horde"
+    },
+    {
+     "key": "flying-machine"
+    },
+    {
+     "key": "goblin-cage"
+    },
+    {
+     "key": "fireball"
     }
    ]
   },
@@ -2394,7 +2078,7 @@
    ]
   },
   {
-   "name": "Evo Goblin Drill Cycle: Hero Knight, Evo Bomber",
+   "name": "Evo Goblin Drill, Monk, Berserker: Poison, Evo Witch",
    "section": "Goblin Drill decks",
    "ladder": true,
    "tt": null,
@@ -2404,27 +2088,26 @@
      "form": "evo"
     },
     {
-     "key": "knight",
-     "form": "hero"
+     "key": "monk"
     },
     {
-     "key": "bomber",
+     "key": "witch",
      "form": "evo"
     },
     {
      "key": "berserker"
     },
     {
-     "key": "fire-spirit"
+     "key": "mega-minion"
     },
     {
-     "key": "inferno-tower"
+     "key": "goblin-cage"
     },
     {
-     "key": "fireball"
+     "key": "poison"
     },
     {
-     "key": "the-log"
+     "key": "royal-delivery"
     }
    ]
   },
@@ -2464,13 +2147,13 @@
    ]
   },
   {
-   "name": "Goblin Drill Cycle: Poison, Hero Knight, Evo Tesla, Evo Giant Snowball",
+   "name": "Evo Goblin Drill Cycle: Goblin Demolisher, Hero Knight, Evo Giant Snowball",
    "section": "Goblin Drill decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "tesla",
+     "key": "goblin-drill",
      "form": "evo"
     },
     {
@@ -2482,42 +2165,68 @@
      "form": "evo"
     },
     {
-     "key": "goblin-drill"
-    },
-    {
-     "key": "bomber"
+     "key": "goblin-demolisher"
     },
     {
      "key": "skeletons"
     },
     {
-     "key": "poison"
+     "key": "electro-spirit"
     },
     {
-     "key": "royal-delivery"
+     "key": "tesla"
+    },
+    {
+     "key": "the-log"
     }
    ]
   },
   {
-   "name": "Goblin Drill Cycle: Poison, Hero Knight, Evo Furnace, Evo Cannon",
-   "section": "Goblin Drill decks",
+   "name": "Ice Bow: Tesla",
+   "section": "Recent decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "furnace",
-     "form": "evo"
+     "key": "x-bow"
     },
     {
-     "key": "knight",
-     "form": "hero"
+     "key": "valkyrie"
     },
     {
-     "key": "cannon",
-     "form": "evo"
+     "key": "ice-wizard"
     },
     {
-     "key": "goblin-drill"
+     "key": "skeletons"
+    },
+    {
+     "key": "tesla"
+    },
+    {
+     "key": "rocket"
+    },
+    {
+     "key": "tornado"
+    },
+    {
+     "key": "the-log"
+    }
+   ]
+  },
+  {
+   "name": "Pump Bow: Archer Queen",
+   "section": "Recent decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "x-bow"
+    },
+    {
+     "key": "archer-queen"
+    },
+    {
+     "key": "mini-pekka"
     },
     {
      "key": "skeletons"
@@ -2526,7 +2235,10 @@
      "key": "fire-spirit"
     },
     {
-     "key": "poison"
+     "key": "electro-spirit"
+    },
+    {
+     "key": "elixir-collector"
     },
     {
      "key": "the-log"
@@ -2534,63 +2246,63 @@
    ]
   },
   {
-   "name": "Minion Giant, Lava Hound, Barbarians",
+   "name": "Queen Bow: Tesla",
    "section": "Recent decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "minion-giant"
+     "key": "x-bow"
     },
     {
-     "key": "lava-hound"
+     "key": "archer-queen"
     },
     {
-     "key": "barbarians"
+     "key": "knight"
     },
     {
-     "key": "skeleton-dragons"
+     "key": "skeletons"
     },
     {
-     "key": "mega-minion"
+     "key": "ice-spirit"
     },
     {
-     "key": "tombstone"
+     "key": "tesla"
     },
     {
      "key": "fireball"
     },
     {
-     "key": "zap"
+     "key": "the-log"
     }
    ]
   },
   {
-   "name": "Minion Giant, Ronin, Spirit Empress: Vines",
+   "name": "Balloon Cycle: Miner, Musketeer",
    "section": "Recent decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "minion-giant"
+     "key": "balloon"
     },
     {
-     "key": "spirit-empress"
+     "key": "miner"
     },
     {
-     "key": "ronin"
+     "key": "ice-golem"
     },
     {
-     "key": "dark-prince"
+     "key": "musketeer"
     },
     {
-     "key": "royal-ghost"
+     "key": "bats"
     },
     {
-     "key": "mother-witch"
+     "key": "bomb-tower"
     },
     {
-     "key": "vines"
+     "key": "barbarian-barrel"
     },
     {
      "key": "giant-snowball"
@@ -2598,98 +2310,34 @@
    ]
   },
   {
-   "name": "Minion Giant, Mortar, Cannon Cart",
+   "name": "Giant Graveyard: Night Witch, Musketeer",
    "section": "Recent decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "minion-giant"
+     "key": "graveyard"
     },
     {
-     "key": "mortar"
+     "key": "giant"
     },
     {
-     "key": "cannon-cart"
+     "key": "bowler"
     },
     {
-     "key": "rascals"
+     "key": "musketeer"
     },
     {
-     "key": "ice-wizard"
+     "key": "night-witch"
     },
     {
-     "key": "minion-horde"
+     "key": "guards"
     },
     {
-     "key": "fireball"
+     "key": "arrows"
     },
     {
-     "key": "barbarian-barrel"
-    }
-   ]
-  },
-  {
-   "name": "Minion Giant Goblinstein Ice Wizard Control",
-   "section": "Recent decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "minion-giant"
-    },
-    {
-     "key": "goblinstein"
-    },
-    {
-     "key": "ice-wizard"
-    },
-    {
-     "key": "bats"
-    },
-    {
-     "key": "skeletons"
-    },
-    {
-     "key": "goblin-hut"
-    },
-    {
-     "key": "fireball"
-    },
-    {
-     "key": "barbarian-barrel"
-    }
-   ]
-  },
-  {
-   "name": "Minion Horde Battle Ram Three Musketeers",
-   "section": "Recent decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "battle-ram"
-    },
-    {
-     "key": "three-musketeers"
-    },
-    {
-     "key": "dark-prince"
-    },
-    {
-     "key": "bandit"
-    },
-    {
-     "key": "ice-golem"
-    },
-    {
-     "key": "minion-horde"
-    },
-    {
-     "key": "elixir-collector"
-    },
-    {
-     "key": "zap"
+     "key": "giant-snowball"
     }
    ]
   },
@@ -2724,6 +2372,74 @@
     },
     {
      "key": "tornado"
+    }
+   ]
+  },
+  {
+   "name": "Evo Skeleton Barrel, Evo Wall Breakers, Mighty Miner",
+   "section": "Best Clash Royale decks Best decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "skeleton-barrel",
+     "form": "evo"
+    },
+    {
+     "key": "mighty-miner"
+    },
+    {
+     "key": "wall-breakers",
+     "form": "evo"
+    },
+    {
+     "key": "royal-recruits"
+    },
+    {
+     "key": "minions"
+    },
+    {
+     "key": "dart-goblin"
+    },
+    {
+     "key": "goblin-gang"
+    },
+    {
+     "key": "arrows"
+    }
+   ]
+  },
+  {
+   "name": "LumberLoon Freeze: Evo Royal Recruits, Evo Lumberjack",
+   "section": "Best Clash Royale decks Best decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "royal-recruits",
+     "form": "evo"
+    },
+    {
+     "key": "little-prince"
+    },
+    {
+     "key": "lumberjack",
+     "form": "evo"
+    },
+    {
+     "key": "balloon"
+    },
+    {
+     "key": "skeleton-dragons"
+    },
+    {
+     "key": "skeletons"
+    },
+    {
+     "key": "freeze"
+    },
+    {
+     "key": "giant-snowball"
     }
    ]
   },
@@ -2763,111 +2479,42 @@
    ]
   },
   {
-   "name": "Evo Skeleton Barrel, Giant Skeleton, Cannon Cart: Clone, Evo Furnace, Hero Goblins",
+   "name": "Hero Balloon, Miner, Giant Skeleton: Evo Executioner, Evo Zap",
    "section": "Best Clash Royale decks Best decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "skeleton-barrel",
+     "key": "executioner",
      "form": "evo"
     },
     {
-     "key": "goblins",
+     "key": "balloon",
      "form": "hero"
     },
     {
-     "key": "furnace",
+     "key": "zap",
      "form": "evo"
+    },
+    {
+     "key": "miner"
     },
     {
      "key": "giant-skeleton"
     },
     {
-     "key": "cannon-cart"
-    },
-    {
-     "key": "flying-machine"
-    },
-    {
-     "key": "clone"
-    },
-    {
-     "key": "the-log"
-    }
-   ]
-  },
-  {
-   "name": "P.E.K.K.A Bridge Spam: Evo Battle Ram, Evo Royal Ghost, Hero Electro Wizard",
-   "section": "Best Clash Royale decks Best decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "battle-ram",
-     "form": "evo"
-    },
-    {
-     "key": "electro-wizard",
-     "form": "hero"
-    },
-    {
-     "key": "royal-ghost",
-     "form": "evo"
-    },
-    {
-     "key": "pekka"
-    },
-    {
-     "key": "bandit"
-    },
-    {
-     "key": "furnace"
-    },
-    {
-     "key": "fireball"
-    },
-    {
-     "key": "zap"
-    }
-   ]
-  },
-  {
-   "name": "LumberLoon Freeze: Evo Royal Recruits, Evo Lumberjack",
-   "section": "Best Clash Royale decks Best decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "royal-recruits",
-     "form": "evo"
-    },
-    {
-     "key": "little-prince"
-    },
-    {
-     "key": "lumberjack",
-     "form": "evo"
-    },
-    {
-     "key": "balloon"
-    },
-    {
-     "key": "skeleton-dragons"
-    },
-    {
      "key": "skeletons"
     },
     {
-     "key": "freeze"
+     "key": "bomb-tower"
     },
     {
-     "key": "giant-snowball"
+     "key": "tornado"
     }
    ]
   },
   {
-   "name": "Evo Mortar Bait: Skeleton King, Cannon Cart, Evo Skeleton Barrel",
+   "name": "Evo Skeleton Barrel, Skeleton King, Rascals: Vines, Evo Royal Ghost",
    "section": "Skeleton King decks",
    "ladder": true,
    "tt": null,
@@ -2880,23 +2527,23 @@
      "key": "skeleton-king"
     },
     {
-     "key": "mortar",
+     "key": "royal-ghost",
      "form": "evo"
     },
     {
-     "key": "cannon-cart"
-    },
-    {
-     "key": "ice-wizard"
+     "key": "rascals"
     },
     {
      "key": "dart-goblin"
     },
     {
-     "key": "goblin-gang"
+     "key": "bomb-tower"
     },
     {
-     "key": "poison"
+     "key": "vines"
+    },
+    {
+     "key": "barbarian-barrel"
     }
    ]
   },
@@ -2935,41 +2582,7 @@
    ]
   },
   {
-   "name": "Miner Evo Wall Breakers: Evo Skeleton Army",
-   "section": "Skeleton King decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "wall-breakers",
-     "form": "evo"
-    },
-    {
-     "key": "skeleton-king"
-    },
-    {
-     "key": "skeleton-army",
-     "form": "evo"
-    },
-    {
-     "key": "miner"
-    },
-    {
-     "key": "minions"
-    },
-    {
-     "key": "inferno-tower"
-    },
-    {
-     "key": "poison"
-    },
-    {
-     "key": "barbarian-barrel"
-    }
-   ]
-  },
-  {
-   "name": "Evo Mortar Bait: Skeleton King, Cannon Cart, Ice Wizard, Evo Skeleton Barrel, Cannoneer",
+   "name": "Evo Mortar Bait: Skeleton King, Cannon Cart, Evo Skeleton Barrel, Cannoneer",
    "section": "Skeleton King decks",
    "ladder": true,
    "tt": 1,
@@ -2992,81 +2605,115 @@
      "key": "ice-wizard"
     },
     {
-     "key": "bats"
-    },
-    {
      "key": "goblin-gang"
     },
     {
+     "key": "lightning"
+    },
+    {
      "key": "arrows"
     }
    ]
   },
   {
-   "name": "Sparky, Archer Queen, Evo Elite Barbarians: Evo Skeleton Army",
-   "section": "Archer Queen decks",
+   "name": "Evo Royal Giant: Skeleton King, Fireball, Evo Skeletons",
+   "section": "Skeleton King decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "elite-barbarians",
+     "key": "royal-giant",
      "form": "evo"
     },
     {
-     "key": "archer-queen"
+     "key": "skeleton-king"
     },
     {
-     "key": "skeleton-army",
+     "key": "skeletons",
      "form": "evo"
     },
     {
-     "key": "sparky"
+     "key": "fisherman"
     },
     {
-     "key": "bandit"
+     "key": "mother-witch"
     },
     {
-     "key": "inferno-dragon"
-    },
-    {
-     "key": "arrows"
-    },
-    {
-     "key": "zap"
-    }
-   ]
-  },
-  {
-   "name": "Queen Bow: Evo Tesla, Evo Ice Spirit",
-   "section": "Archer Queen decks",
-   "ladder": true,
-   "tt": null,
-   "cards": [
-    {
-     "key": "ice-spirit",
-     "form": "evo"
-    },
-    {
-     "key": "archer-queen"
-    },
-    {
-     "key": "tesla",
-     "form": "evo"
-    },
-    {
-     "key": "x-bow"
-    },
-    {
-     "key": "knight"
-    },
-    {
-     "key": "skeletons"
+     "key": "zappies"
     },
     {
      "key": "fireball"
     },
     {
      "key": "the-log"
+    }
+   ]
+  },
+  {
+   "name": "Dark Elixir: Skeleton King, Evo Skeleton Barrel, Furnace, Evo Skeleton Army",
+   "section": "Skeleton King decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "skeleton-barrel",
+     "form": "evo"
+    },
+    {
+     "key": "skeleton-king"
+    },
+    {
+     "key": "skeleton-army",
+     "form": "evo"
+    },
+    {
+     "key": "cannon-cart"
+    },
+    {
+     "key": "furnace"
+    },
+    {
+     "key": "bats"
+    },
+    {
+     "key": "dart-goblin"
+    },
+    {
+     "key": "arrows"
+    }
+   ]
+  },
+  {
+   "name": "Wall Breakers, Evo Mega Knight, Archer Queen: Evo Royal Ghost",
+   "section": "Archer Queen decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "mega-knight",
+     "form": "evo"
+    },
+    {
+     "key": "archer-queen"
+    },
+    {
+     "key": "royal-ghost",
+     "form": "evo"
+    },
+    {
+     "key": "wall-breakers"
+    },
+    {
+     "key": "prince"
+    },
+    {
+     "key": "goblin-gang"
+    },
+    {
+     "key": "arrows"
+    },
+    {
+     "key": "zap"
     }
    ]
   },
@@ -3105,10 +2752,10 @@
    ]
   },
   {
-   "name": "Wall Breakers, Evo Mega Knight, Archer Queen: Evo Bats",
+   "name": "Wall Breakers, Evo Mega Knight, Archer Queen: Evo Bats, Dagger Duchess",
    "section": "Archer Queen decks",
    "ladder": true,
-   "tt": null,
+   "tt": 2,
    "cards": [
     {
      "key": "mega-knight",
@@ -3134,68 +2781,72 @@
      "key": "goblin-gang"
     },
     {
-     "key": "the-log"
+     "key": "zap"
     }
    ]
   },
   {
-   "name": "Furnace Inferno Rocket Lightning Hog control",
-   "section": "Interesting non-meta decks",
+   "name": "Evo Skeleton Barrel, Evo Mega Knight, Archer Queen",
+   "section": "Archer Queen decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "hog-rider"
+     "key": "skeleton-barrel",
+     "form": "evo"
     },
     {
-     "key": "furnace"
+     "key": "archer-queen"
     },
     {
-     "key": "guards"
+     "key": "mega-knight",
+     "form": "evo"
+    },
+    {
+     "key": "prince"
+    },
+    {
+     "key": "bandit"
     },
     {
      "key": "goblin-gang"
     },
     {
-     "key": "inferno-tower"
-    },
-    {
-     "key": "rocket"
-    },
-    {
-     "key": "lightning"
-    },
-    {
      "key": "arrows"
+    },
+    {
+     "key": "the-log"
     }
    ]
   },
   {
-   "name": "GS 3M Heal control",
-   "section": "Interesting non-meta decks",
+   "name": "P.E.K.K.A Bridge Spam: Archer Queen, Evo Battle Ram, Evo Royal Ghost",
+   "section": "Archer Queen decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "three-musketeers"
+     "key": "battle-ram",
+     "form": "evo"
     },
     {
-     "key": "giant-skeleton"
+     "key": "archer-queen"
     },
     {
-     "key": "ice-golem"
+     "key": "royal-ghost",
+     "form": "evo"
+    },
+    {
+     "key": "pekka"
+    },
+    {
+     "key": "bandit"
     },
     {
      "key": "minions"
     },
     {
-     "key": "heal-spirit"
-    },
-    {
-     "key": "elixir-collector"
-    },
-    {
-     "key": "the-log"
+     "key": "poison"
     },
     {
      "key": "zap"
@@ -3203,34 +2854,34 @@
    ]
   },
   {
-   "name": "Graveyard, Giant, Sparky",
+   "name": "Lava Loon Clone eWiz",
    "section": "Interesting non-meta decks",
    "ladder": true,
    "tt": null,
    "cards": [
     {
-     "key": "graveyard"
+     "key": "balloon"
     },
     {
-     "key": "giant"
+     "key": "lava-hound"
     },
     {
-     "key": "sparky"
+     "key": "ice-golem"
     },
     {
-     "key": "wizard"
+     "key": "electro-wizard"
     },
     {
-     "key": "ice-wizard"
+     "key": "mega-minion"
     },
     {
-     "key": "inferno-tower"
+     "key": "skeleton-army"
     },
     {
-     "key": "the-log"
+     "key": "clone"
     },
     {
-     "key": "zap"
+     "key": "fireball"
     }
    ]
   },
@@ -3295,6 +2946,70 @@
     },
     {
      "key": "the-log"
+    }
+   ]
+  },
+  {
+   "name": "Balloon Cycle: Miner, Guards",
+   "section": "Interesting non-meta decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "balloon"
+    },
+    {
+     "key": "miner"
+    },
+    {
+     "key": "ice-golem"
+    },
+    {
+     "key": "inferno-dragon"
+    },
+    {
+     "key": "guards"
+    },
+    {
+     "key": "ice-spirit"
+    },
+    {
+     "key": "poison"
+    },
+    {
+     "key": "zap"
+    }
+   ]
+  },
+  {
+   "name": "Graveyard, Giant, Sparky",
+   "section": "Interesting non-meta decks",
+   "ladder": true,
+   "tt": null,
+   "cards": [
+    {
+     "key": "graveyard"
+    },
+    {
+     "key": "giant"
+    },
+    {
+     "key": "sparky"
+    },
+    {
+     "key": "wizard"
+    },
+    {
+     "key": "ice-wizard"
+    },
+    {
+     "key": "inferno-tower"
+    },
+    {
+     "key": "the-log"
+    },
+    {
+     "key": "zap"
     }
    ]
   }
