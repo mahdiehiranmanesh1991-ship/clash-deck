@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-02",
+ "updated": "2026-11-08",
  "sources": [
   "official-mirror",
   "deckshop-list"
@@ -170,7 +170,7 @@
    "champion": false,
    "remote": {
     "base": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png",
-    "evo": null,
+    "evo": "https://api-assets.clashroyale.com/cardevolutions/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png",
     "hero": "https://api-assets.clashroyale.com/cardheroes/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
    },
    "dsRoles": [
