@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "sources": [
   "official-mirror",
   "deckshop-list"
@@ -192,7 +192,8 @@
    "fa": "غول",
    "img": {
     "base": "img/cards/26000003.webp",
-    "hero": "img/cards/26000003_hero.webp"
+    "hero": "img/cards/26000003_hero.webp",
+    "evo": "img/cards/26000003_evo.webp"
    },
    "evoAdded": "2026-11-02"
   },
@@ -4541,7 +4542,8 @@
    "rolesEstimated": true,
    "fa": "آینه",
    "img": {
-    "base": "img/cards/28000006.webp"
+    "base": "img/cards/28000006.webp",
+    "evo": "img/cards/28000006_evo.webp"
    },
    "evoAdded": "2026-11-02"
   },
